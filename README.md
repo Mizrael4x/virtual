@@ -1,2 +1,2 @@
 # virtual
-Repositório de projetos para consulta
+Portifólio de projetos criados para consulta de material.
